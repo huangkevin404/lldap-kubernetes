@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  lldap-chart:
+  - apiVersion: v2
+    appVersion: 0.6.1
+    created: "2025-01-26T11:04:40.566170839Z"
+    description: lldap - Light LDAP implementation for authentication
+    digest: 8d930824afcf10477f1601106661ec9f1f847161d648acba903a3099c840927a
+    name: lldap-chart
+    type: application
+    urls:
+    - https://github.com/huangkevin404/lldap-kubernetes/releases/download/lldap-chart-0.3.3/lldap-chart-0.3.3.tgz
+    version: 0.3.3
+generated: "2025-01-26T11:04:40.566177181Z"
